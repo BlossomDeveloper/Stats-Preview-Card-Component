@@ -164,7 +164,7 @@ body {
         align-items: center;
         justify-content: center;
         flex-direction: column-reverse;
-        max-width: 100%;
+        max-width: 375px;
     }
 
     .left {
