@@ -165,7 +165,6 @@ body {
         justify-content: center;
         flex-direction: column-reverse;
         max-width: 375px;
-        max-height: 400px;
     }
 
     .left {
