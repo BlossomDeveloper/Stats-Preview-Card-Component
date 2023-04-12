@@ -171,8 +171,8 @@ body {
         display: flex;
         align-items: center;
         justify-content: center;
-        width: 355px;
-        height: 600px;
+        width: 375px;
+        height: 677px;
         margin-top: -62px;
         border-radius: 0 0 10px 10px;
     }
@@ -235,7 +235,7 @@ body {
         align-items: center;
         justify-content: center;
         width: 355px;
-        height: 350px;
+        height: 260px;
         border-radius: 10px 10px 0 0;
     }
 
